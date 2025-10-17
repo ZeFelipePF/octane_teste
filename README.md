@@ -314,7 +314,7 @@ CHECKLIST ANTES DE RETORNAR:
 
 RETORNE APENAS O JSON. NADA MAIS.
 
-### ** 2.2. Scripts Auxiliares (Nós de Código)**
+### **2.2. Scripts Auxiliares (Nós de Código)**
 
 O workflow utiliza diversos nós de código para manipulação e análise de dados. Os mais importantes são:
 
